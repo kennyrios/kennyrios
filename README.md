@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @kennyrios
-- 👀 I’m interested in Web development, mobile apps and videogames development
-- 🌱 I’m currently learning React Native
-- 💞️ I’m looking to collaborate on every project I could learn
-- 📫 How to reach me kennyrgrafico@gmail.com
-
-<!---
-kennyrios/kennyrios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @kennyrios  
+- 💻 Web Designer & Front-End Developer passionate about building clean, responsive, and user-focused web experiences.  
+- 🚀 I work with HTML, CSS, JavaScript, WordPress, and modern front-end tools to create performant and scalable websites.  
+- 🎨 I collaborate closely with designers, videographers, and marketing teams to turn ideas into fully functional digital products.  
+- 🌱 Currently expanding my skills in Ai.  
+- 🤝 Open to collaborating on innovative digital experiences.  
+- 📫 Reach me at: **kennyrgrafico@gmail.com**
